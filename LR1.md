@@ -33,7 +33,7 @@ Lab Work
     <a href="https://t.me/WogaBiCH">Telegram</a>
     
     <h2>Моя фотография</h2>
-    <img src="https://papik.pro/grafic/uploads/posts/2023-04/1681516639_papik-pro-p-logotip-unnv-vektor-3.jpg alt="фото группы" width="400" height="300">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/%D0%A3%D0%BD%D0%BD%D0%B2.jpg" alt="фото группы" width="400" height="300">
     
     <h2>Мои навыки</h2>
     <table border="1">
