@@ -4,7 +4,7 @@ Lab Work
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Лабораторная работа 1</title>
+    <title>Лабораторная работа  1</title>
 </head>
 <body>
     <h1>Это моя первая HTML страница</h1>
@@ -24,8 +24,8 @@ Lab Work
     
     <h2>Какая музыка мне нравится</h2>
     <ol>
-        <li>Андеграундный Хип-Хоп</li>
-        <li>Рэп</li>
+        <li>Андеграундный Хип-Хоп - УННВ</li>
+        <li>Рэп - АК-47</li>
     </ol>
     
     <h2 style="color: darkmagenta;">Как связаться со мной</h2>
