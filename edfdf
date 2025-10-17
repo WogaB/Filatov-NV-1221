@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Лабораторная работа 1</title>
+</head>
+<body>
+    <h1 style="color: blue;">Это моя первая HTML страница</h1>
+    
+    <h1 style="color: green;">О себе</h1>
+    <p style="color: purple;">
+        Меня зовут <b>Алексей</b>. Я родился в <i>Москве</i> и учился в <b>МГУ</b>. 
+        Люблю программирование, <del>компьютерные игры</del> и путешествия. 
+        Интересный факт: участвовал в <i>олимпиаде по программированию</i>.
+    </p>
+    
+    <h2 style="color: red;">Какие фильмы мне нравятся</h2>
+    <ul>
+        <li style="color: brown;">Начало</li>
+        <li style="color: brown;">Интерстеллар</li>
+        <li style="color: brown;">Матрица</li>
+    </ul>
+    
+    <h2 style="color: orange;">Какая музыка мне нравится</h2>
+    <ol>
+        <li style="color: teal;">Рок</li>
+        <li style="color: teal;">Электронная музыка</li>
+        <li style="color: teal;">Джаз</li>
+    </ol>
+    
+    <h2 style="color: darkmagenta;">Как связаться со мной</h2>
+    <a href="https://vk.com/example" style="color: crimson;">ВКонтакте</a>
+    <a href="https://t.me/example" style="color: crimson;">Telegram</a>
+    
+    <h2 style="color: navy;">Моя фотография</h2>
+    <img src="https://via.placeholder.com/400x300" alt="Моя фотография" width="400" height="300">
+    
+    <h2 style="color: darkgreen;">Мои навыки</h2>
+    <table border="1">
+        <tr>
+            <th style="color: white; background-color: black;">Язык</th>
+            <th style="color: white; background-color: black;">Уровень</th>
+        </tr>
+        <tr>
+            <td style="color: darkblue;">JavaScript</td>
+            <td style="color: darkblue;">Продвинутый</td>
+        </tr>
+        <tr>
+            <td style="color: darkblue;">Python</td>
+            <td style="color: darkblue;">Средний</td>
+        </tr>
+    </table>
+    
+    <h2 style="color: gray;">Цитата</h2>
+    <blockquote style="color: darkred;">
+        "Программирование — это искусство создания решений"
+    </blockquote>
+</body>
+</html>
